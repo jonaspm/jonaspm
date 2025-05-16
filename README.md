@@ -36,12 +36,12 @@ I'm an innovative tech leader with over 8 years of experience in web development
 
 ### 📫 Let's Connect
 
-- 🌐 [jonasperusquia.com](https://jonasperusquia.com)
+- 🌐 [jonasperusquia.com](https://jonasperusquia.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonaspm/)
-- 🐦 [Twitter](https://twitter.com/)
-- 📸 [Instagram](https://instagram.com/)
-- 🎵 [TikTok](https://tiktok.com/)
-- 🎥 [YouTube](https://youtube.com/)
+- 🐦 [Twitter](https://twitter.com/jperusm)
+- 📸 [Instagram](https://instagram.com/jonasperusm/)
+- 🎵 [TikTok](https://tiktok.com/@jperusm)
+- 🎥 [YouTube](https://youtube.com/@jonasfintec)
 
 ---
 
